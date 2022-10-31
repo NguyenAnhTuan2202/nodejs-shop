@@ -1,0 +1,16 @@
+[
+  {
+    "id": "12312312312",
+    "title": "A new book",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/03/31/20/51/book-1296045_960_720.png",
+    "price": "23.21",
+    "description": "This is a good book!"
+  },
+  {
+    "id": "54565",
+    "title": "A second book",
+    "imageUrl": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23165047/Importance-of-Books-800x500.png",
+    "price": "32.12",
+    "description": "This is a second good book!!!"
+  }
+]
